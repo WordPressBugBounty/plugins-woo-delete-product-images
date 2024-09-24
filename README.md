@@ -1,0 +1,1 @@
+# plugins-woo-delete-product-images
